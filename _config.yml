@@ -2,7 +2,7 @@ title: Test Github Pages Github Pages
 author: The Jamie
 email: jamie@not-telling-you-that.com
 description: > # this means to ignore newlines until "baseurl:"
-A test site, following the github-learning-lab course
+  A test site, following the github-learning-lab course
 
 # social links
 github_username:  jamie-davis
